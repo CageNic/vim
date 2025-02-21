@@ -9,6 +9,9 @@ type vim (no file)
 : Sex
 : Hex
 
-splits the screen (left - file explorer, right - vim editor panel
+splits the screen (left - file explorer, right - vim editor panel)
+use up / down arrow buttons to navigate through files and directories on the left
+use enter button on file so it enters on right pane
 
-## how to toggle?
+use Ctrl W (press W twice to toggle between left and right pane)
+when you enter a different file, it replaces the open file on the right pane
