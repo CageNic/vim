@@ -1,0 +1,10 @@
+## open multiple files
+vim -p file1.txt file2.txt file3.txt file4.txt
+## use 1gt (1 followed by g, followed by t) on keyboard to go to 1st tab, use 2gt to het to 2nd file etc.
+
+## file explore
+type vim (no file)
+: Lex
+splits the screen (left - file explorer, right - vim editor panel
+
+## how to toggle?
