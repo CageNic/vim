@@ -4,7 +4,11 @@ vim -p file1.txt file2.txt file3.txt file4.txt
 
 ## file explore
 type vim (no file)
-: Lex
+: Explore
+: Lex  # best option
+: Sex
+: Hex
+
 splits the screen (left - file explorer, right - vim editor panel
 
 ## how to toggle?
